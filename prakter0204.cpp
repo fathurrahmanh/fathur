@@ -15,4 +15,7 @@ int main(){
 	int BPS=LR*20;
 	cout<<"biaya pasang (Rp)	: "<<BPS<<endl;
 	double TB=BPR+BPS;
+	cout<<"total biaya (Rp)		: "<<TB<<endl;
+	cout<<"------------------------------------";
+	getch();
 }
